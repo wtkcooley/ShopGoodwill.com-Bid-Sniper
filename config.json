@@ -1,0 +1,16 @@
+{
+    "EMAIL": "EMAIL",
+    "PASSWORD": "PASSWORD",
+    "ITEMS": [
+        {
+            "ID": 12345678,
+            "MAX_BID": 100.00,
+            "END_TIME": "12/06/2022 02:46:00 PM PT"
+        },
+        {
+            "ID": 87654321,
+            "MAX_BID": 200.00,
+            "END_TIME": "12/08/2022 06:30:00 PM PT"
+        }
+    ]
+}
